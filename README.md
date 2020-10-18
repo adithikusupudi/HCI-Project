@@ -7,7 +7,7 @@ IWP Project - J Component
 </h2>
 
 <h4 align="center">
-https://likhitgarimella.github.io/IWP-Project/
+https://adithikusupudi.github.io/HCI-Project/
 </h4>
 
 <h2 align="center">
@@ -32,7 +32,3 @@ Website Preview
     <td><img src="https://github.com/likhitgarimella/HCI-Project/blob/master/Omnifood%20Screenshots/Website/8)%20footer.png"></td>
   </tr>
 </table>
-
-<h4 align="center">
-Copyright © 2020 Likhit Garimella
-</h4>
