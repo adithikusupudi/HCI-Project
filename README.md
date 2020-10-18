@@ -3,7 +3,7 @@ Omnifood Website
 </h1>
 
 <h2 align="center">
-IWP Project - J Component
+HCI Project - J Component
 </h2>
 
 <h4 align="center">
